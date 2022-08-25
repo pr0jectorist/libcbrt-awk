@@ -1,4 +1,4 @@
-# Descrtption
+# Description
 Provides cbrt() function for extracting cube root in AWK
 
 ## Usage
